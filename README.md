@@ -1,33 +1,34 @@
-# Task 5 - Malware Types & Behavior Analysis 
+# Task 5 – Malware Types & Behavior Analysis
 
 ## Objective
 The objective of this task is to understand different types of malware, their behavior, how they spread, and how they are detected using online analysis platforms like VirusTotal.
 
 ---
 
-## Tools Used 
-- VirusTotal
+## Tools Used
+- VirusTotal (Primary)
 - Online malware analysis resources
 
 ---
 
 ## What is Malware?
-Malware is any software that is intentionally designed to cause damage, Steal data, disrupt system, or gain unauthorized access to computers and networks.
+Malware is any software that is intentionally designed to cause damage, steal data, disrupt systems, or gain unauthorized access to computers and networks.
 
 ---
- ## Types of Malware Studied 
 
- ### 1. Virus
- - Attaches itself to legitimate files
- - Spreads when infected files are executed
- - Can corrupt or delete data
+## Types of Malware Studied
+
+### 1. Virus
+- Attaches itself to legitimate files
+- Spreads when infected files are executed
+- Can corrupt or delete data
 
 ### 2. Worm
 - Self-replicating
 - Spreads automatically across networks
 - Does not require user interaction
 
-### 3. Trojan 
+### 3. Trojan
 - Disguised as legitimate software
 - Creates backdoors for attackers
 - Does not self-replicate
@@ -39,30 +40,30 @@ Malware is any software that is intentionally designed to cause damage, Steal da
 
 ---
 
-## Malware Lifecycle 
-1. Creation
-2. Distribution
-3. Execution
-4. Persistence
-5. Data theft or damage
-6. Spread to other systems
+## Malware Lifecycle
+1. Creation  
+2. Distribution  
+3. Execution  
+4. Persistence  
+5. Data theft or damage  
+6. Spread to other systems  
 
 ---
 
-## How Malware spreads 
+## How Malware Spreads
 - Email attachments
 - Malicious websites
 - Fake software downloads
-- USB drivers
+- USB drives
 - Network vulnerabilities
 
 ---
 
-##Malware Detection Using VirusTotal
-VirusTotal scans files or hases using multiple antivirus engines. 
-It provdes:
+## Malware Detection Using VirusTotal
+VirusTotal scans files or hashes using multiple antivirus engines.  
+It provides:
 - Detection ratio
-- Malware Family name
+- Malware family name
 - Behavior indicators
 - Threat category
 
@@ -70,7 +71,7 @@ It provdes:
 
 ## Example Analysis Method (Without Uploading Real Malware)
 Instead of uploading live malware, known malware hashes are searched on VirusTotal to:
-- Observed detection reports
+- Observe detection reports
 - Identify malware type
 - Understand behavior patterns
 - Study reputation and threat levels
@@ -109,13 +110,5 @@ This task helped in understanding:
 
 ---
 
-## Final Outcome 
+## Final Outcome
 Gained basic knowledge of malware awareness and detection techniques.
-
-
-
-
-
-
-
-
